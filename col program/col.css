@@ -1,0 +1,23 @@
+.a{
+    border: 2px solid black;
+    background-color: hsl(350, 56%, 70%);
+    margin-top: 40px;
+    
+}
+.b{
+    border: 2px solid black;
+    background-color: skyblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* margin-left:25px; */
+    margin-top: 40px;
+}
+.c{
+    border: 2px solid black;
+    background-color: rgb(197, 215, 123);
+    margin-bottom: 40px;
+   margin-top: 40PX; 
+}
+.class{
+    border: 7px solid black;
+}

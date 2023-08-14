@@ -1,0 +1,30 @@
+.a{
+    border: 2px solid black;
+    background-color: rgb(49, 44, 44);
+    color: white;
+    margin-top: 30px;
+    }
+    .b{
+        border: 2px solid black;
+        background-color:  rgb(49, 44, 44);
+        color: white;
+        margin-top: 10px;
+        
+        padding-bottom: 200px;
+    }
+    .c{
+        border: 2px solid black;
+        background-color:  rgb(49, 44, 44);
+        color: white;
+        margin-top: 10px;
+        padding-bottom: 200px;
+        /* margin-right: -8px; */
+        
+    }
+    .d{
+        border: 2px solid black;
+        background-color:  rgb(49, 44, 44);
+        padding-bottom: 200px;
+        color: white;
+        
+    }
