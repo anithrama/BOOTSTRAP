@@ -1,0 +1,15 @@
+.a{
+    background-color: skyblue;
+    border: 1px solid skyblue;
+    color: white;
+}
+.b{
+    background-color: rgb(231, 208, 231);
+    border: 1px solid rgb(231, 208, 231);
+    padding-bottom: 180px;
+}
+.c{
+    background-color: #82c282;
+    border: 1px solid  #82c282 ;
+    padding-bottom: 220px;
+}
