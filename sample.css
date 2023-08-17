@@ -1,0 +1,21 @@
+.a{
+    background-color: brown;
+}
+.b{
+    background-color: cadetblue;
+
+}
+
+button{
+    background-color: rgb(214, 56, 56);
+    color: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+.sample{
+    padding: 100px;
+    background-color: aqua;
+    border-radius: 20px;
+    margin: 20px;
+}
